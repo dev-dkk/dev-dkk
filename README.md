@@ -1,7 +1,4 @@
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-dkk&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  title = "Minhas Linguagens"/>
-</div>
-
 ###
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJxa24yMmoxZzF5M3c5djJiaGsydDd5bjV6cGpzOWpyMnRsM2JvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
